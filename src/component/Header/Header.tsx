@@ -12,7 +12,7 @@ const Header: React.FC = () => {
 			</Link>
 			<div className='options'>
 				<Link className='option' to='/shop'>
-					SHOP
+					SHOP PHUOCTD
 				</Link>
 				<Link className='option' to='/contact'>
 					CONTACT
