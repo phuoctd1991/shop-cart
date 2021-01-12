@@ -1,0 +1,17 @@
+.collection-preview {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 30px;
+	padding: 20px 27px;
+	.title {
+		font-size: 35px;
+		margin-bottom: 25px;
+		text-transform: capitalize;
+	}
+
+	.preview {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+}
